@@ -1,0 +1,10 @@
+Jogada de número 1: 3!
+Jogada de número 2: 6!
+Jogada de número 3: 6!
+Jogada de número 4: 4!
+Jogada de número 5: 2!
+Jogada de número 6: 4!
+Jogada de número 7: 1!
+Jogada de número 8: 1!
+Jogada de número 9: 4!
+Jogada de número 10: 5!
